@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Manny Chau, web developer turned iOS Developer from Montreal🇨🇦 based in London 🇬🇧
+### Hi there 👋 
+### I'm Manny Chau, web developer turned iOS Developer from Montreal🇨🇦 based in London 🇬🇧
 ### I like to document my travels and my life travelling as a software engineer.
 
 - 🔭 I’m currently working on iOS Development and Managerial skills🧑‍💻
