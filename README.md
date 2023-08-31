@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I'm Manny Chau, web developer turned iOS Developer from Montreal🇨🇦 based in London🇬🇧
+### I'm Manny, web developer turned iOS Developer from Montreal🇨🇦 based in London🇬🇧
 ### I like to document my travels as a software developer
 ### You can occasionally find me Live Streaming games on YouTube
 
