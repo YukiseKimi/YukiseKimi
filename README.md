@@ -12,3 +12,4 @@ You can occasionally find me Live Streaming games on YouTube
 - 💬 Ask me about my travels!🛫
 - 💡 Fun fact: I'm a polyglot🗣
 
+You can find me @ [My personal website](https://www.mannychau.com)
